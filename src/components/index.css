@@ -1,0 +1,40 @@
+.card {
+  display: flex;
+  margin: 0 20px 3px 20px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  transition-property: background-color, color;
+  transition-duration: .8s;
+  color: #212529;
+}
+
+.card:hover {
+  background-color: #3a3e42;
+  color: whitesmoke;
+}
+
+.body {
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+
+.title {
+ margin-bottom: .75rem;
+}
+
+.email {
+  color: #6c757d;
+  margin-bottom: .5rem;
+  margin-top: -.375rem;
+  transition-property: color;
+  transition-duration: .3s;
+}
+
+.email:hover {
+  color: #979fa5;
+}
+
+.text {
+  margin-top: .5rem;
+  margin-bottom: .1rem;
+}
