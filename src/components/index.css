@@ -4,7 +4,7 @@
   border: 1px solid gray;
   border-radius: 8px;
   transition-property: background-color, color;
-  transition-duration: .8s;
+  transition-duration: .4s;
   color: #212529;
 }
 
@@ -23,15 +23,9 @@
 }
 
 .email {
-  color: #6c757d;
+  color: #979fa5;
   margin-bottom: .5rem;
   margin-top: -.375rem;
-  transition-property: color;
-  transition-duration: .3s;
-}
-
-.email:hover {
-  color: #979fa5;
 }
 
 .text {
