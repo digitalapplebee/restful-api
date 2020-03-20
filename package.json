@@ -6,10 +6,10 @@
   "dependencies": {
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
-    "serialize-javascript": "^2.1.2"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.0",
+    "serialize-javascript": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
