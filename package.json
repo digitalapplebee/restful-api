@@ -1,15 +1,12 @@
 {
-  "name": "pusher-restful-api",
+  "name": "restful-api",
   "version": "0.2.0",
   "description": "A simple implementation on how to use a RESTful API in React.",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.19",
-    "lodash.template": "^4.5.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.0",
-    "serialize-javascript": "^3.1.0"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
